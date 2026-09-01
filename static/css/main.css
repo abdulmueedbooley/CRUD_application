@@ -1,0 +1,14 @@
+body{
+    margin: 20;
+    font-family: sans-serif;
+}
+
+table, th, td {
+    border: 1px solid black; /* Creates a solid line around the table and cells */
+    border-collapse: collapse; /* Merges double borders into single clean lines */
+}
+
+/* Optional padding to give text breathing room inside cells */
+th, td {
+    padding: 8px 12px;
+}
